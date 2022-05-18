@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+                 
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="prjHelloAPP.MainPage">
+
+    <!--xmlns:x指定X為後面唯一的值 避免後面要打很長-->
+    <StackLayout Orientation="Vertical" Spacing="0">
+
+        <StackLayout Orientation="Horizontal" 
+                VerticalOptions="FillAndExpand"
+                Spacing="0">
+
+        <Label Text="紅" FontSize="35"
+               x:Name="red"
+               Background="#EA0000"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               HorizontalOptions="FillAndExpand"/>
+
+        <Label Text="藍" FontSize="35"
+                x:Name="blue"
+               Background="#C4E1FF"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               HorizontalOptions="FillAndExpand"/>
+
+        <Label Text="黃" FontSize="35"
+               x:Name="yellow"
+               Background="#FFDC35"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               HorizontalOptions="FillAndExpand"/>
+
+        <Label Text="綠" FontSize="35"
+               x:Name="green"
+               Background="#73BF00"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical" 
+                VerticalOptions="FillAndExpand"
+                Spacing="0">
+
+            <Label Text="第一行" FontSize="30" 
+               HorizontalTextAlignment="Start"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               />
+
+            <Label Text="第二行" FontSize="30" 
+               HorizontalTextAlignment="Start"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               />
+            
+            <Label Text="第三行" FontSize="30" 
+               HorizontalTextAlignment="Start"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               />
+
+            <Label Text="第四行" FontSize="30" 
+               HorizontalTextAlignment="Start"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               />
+
+        </StackLayout>
+
+    </StackLayout>
+
+
+
+
+</ContentPage>
