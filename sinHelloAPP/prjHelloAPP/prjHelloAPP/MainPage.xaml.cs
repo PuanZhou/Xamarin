@@ -18,7 +18,7 @@ namespace prjHelloAPP
 
         private void SwapColor()
         {
-             string [] colorname = { "紅", "藍", "黃", "綠" };
+            string[] colorname = { "紅", "藍", "黃", "綠" };
 
             Random rng = new Random(Guid.NewGuid().GetHashCode());
 
@@ -42,7 +42,7 @@ namespace prjHelloAPP
 
                 green.Text = colorname[index[3]];
             }
-            while (red.Text == "紅" || blue.Text == "藍" || yellow.Text == "黃" || green.Text == "綠");
+            while (index[0] == 0 || index[1] == 1 || index[2] == 2 || index[3] == 3);
         }
     }
 }

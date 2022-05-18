@@ -7,34 +7,62 @@ namespace prjLottoAPP.Models
     public class CLottoGen
     {
         public string GetLotto()
-        {
-            Random rng = new Random(Guid.NewGuid().GetHashCode());
+        {    
+            //while (count < 6)
+            //{
+            //    int temp = rng.Next(1, 50);
+
+            //    bool isSelected = false;
+
+            //    for(int i = 0; i < numbers.Length; i++)
+            //    {
+            //        if (temp == numbers[i])
+            //        {
+            //            isSelected = true;
+            //            break;
+            //        }
+            //    }
+            //    if (!isSelected)
+            //    {
+            //        numbers[count] = temp;
+
+            //        count++;
+            //    }      
+            //}
+
+            List<int> ball = new List<int>();
+
+            for(int i = 1; i <= 49; i++)
+            {
+                ball.Add(i);
+            }
+
+            
+            
+            int[] numbers = new int[6];
 
             int count = 0;
 
-            int[] numbers = new int[6];
-
             while (count < 6)
             {
+                Random rng = new Random(Guid.NewGuid().GetHashCode());
+
                 int temp = rng.Next(1, 50);
 
-                bool isSelected = false;
-
-                for(int i = 0; i < numbers.Length; i++)
-                {
-                    if (temp == numbers[i])
-                    {
-                        isSelected = true;
-                        break;
-                    }
-                }
-                if (!isSelected)
+                if (ball.Contains(temp))
                 {
                     numbers[count] = temp;
 
+                    ball.Remove(temp);
+
                     count++;
-                }      
+                }
+                else
+                {
+                    continue;
+                }
             }
+
 
             for (int i = 0; i < numbers.Length; i++)
             {

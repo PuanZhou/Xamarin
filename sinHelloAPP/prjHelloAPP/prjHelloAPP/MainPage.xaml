@@ -55,7 +55,7 @@
                HorizontalOptions="FillAndExpand"
                VerticalOptions="FillAndExpand"
                />
-            
+
             <Label Text="第三行" FontSize="30" 
                HorizontalTextAlignment="Start"
                HorizontalOptions="FillAndExpand"
@@ -67,9 +67,7 @@
                HorizontalOptions="FillAndExpand"
                VerticalOptions="FillAndExpand"
                />
-
         </StackLayout>
-
     </StackLayout>
 
 

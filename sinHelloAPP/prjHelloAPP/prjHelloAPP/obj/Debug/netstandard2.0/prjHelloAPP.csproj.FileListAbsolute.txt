@@ -42,3 +42,4 @@ D:\iii\XAML\xamarinCode\sinHelloAPP\prjHelloAPP\prjHelloAPP\obj\Debug\netstandar
 D:\iii\XAML\xamarinCode\sinHelloAPP\prjHelloAPP\prjHelloAPP\obj\Debug\netstandard2.0\prjHelloAPP.dll
 D:\iii\XAML\xamarinCode\sinHelloAPP\prjHelloAPP\prjHelloAPP\obj\Debug\netstandard2.0\ref\prjHelloAPP.dll
 D:\iii\XAML\xamarinCode\sinHelloAPP\prjHelloAPP\prjHelloAPP\obj\Debug\netstandard2.0\prjHelloAPP.pdb
+D:\iii\XAML\xamarinCode\sinHelloAPP\prjHelloAPP\prjHelloAPP\obj\Debug\netstandard2.0\prjHelloAPP.csproj.AssemblyReference.cache
