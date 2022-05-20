@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalcApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="20" CornerRadius="0">
+            <Label Text="計算機範例" HorizontalTextAlignment="Center" TextColor="White" FontSize="20"/>
+        </Frame>
+        <Label x:Name="lblNumber"
+                Text="0"
+                FontSize="56"
+               HorizontalTextAlignment="End"
+                HorizontalOptions="EndAndExpand"/>
+
+        <Grid VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Text="7" 
+                    FontSize="36"  
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="8" 
+                    FontSize="36" 
+                    Grid.Column="1"
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="9" 
+                    FontSize="36"  
+                    Grid.Column="2"
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="+" 
+                    FontSize="36"  
+                    Grid.Column="3"
+                    Clicked="BtnOperator_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="4" 
+                    FontSize="36"  
+                    Grid.Row="1" 
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="5" 
+                    FontSize="36"  
+                    Grid.Row="1" 
+                    Grid.Column="1"
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="6" 
+                    FontSize="36"  
+                    Grid.Row="1" 
+                    Grid.Column="2"
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="-" 
+                    FontSize="36"  
+                    Grid.Row="1" 
+                    Grid.Column="3"
+                    Clicked="BtnOperator_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+
+            <Button Text="1" 
+                    FontSize="36"  
+                    Grid.Row="2" 
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="2" 
+                    FontSize="36"  
+                    Grid.Row="2" 
+                    Grid.Column="1"
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="3" 
+                    FontSize="36"  
+                    Grid.Row="2" 
+                    Grid.Column="2"
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="x" 
+                    FontSize="36"  
+                    Grid.Row="2" 
+                    Grid.Column="3"
+                    Clicked="BtnOperator_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="CE" 
+                    FontSize="36"  
+                    Grid.Row="3" 
+                    Clicked="BtnClear_Clicked"
+                    Grid.Column="1"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+            
+            <Button Text="=" 
+                    FontSize="36"  
+                    Grid.Row="3" 
+                    Clicked="BtnResult_Clicked"
+                    Grid.Column="0"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+            <Button Text="0" 
+                    FontSize="36"  
+                    Grid.Row="3" 
+                    Grid.Column="2"
+                    Clicked="BtnNumber_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+
+            <Button Text="/" 
+                    FontSize="36"  
+                    Grid.Row="3" 
+                    Grid.Column="3"
+                    Clicked="BtnOperator_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    />
+
+        </Grid>
+    </StackLayout>
+
+
+</ContentPage>

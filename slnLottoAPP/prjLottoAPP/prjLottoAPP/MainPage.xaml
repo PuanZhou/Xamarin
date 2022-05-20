@@ -8,7 +8,7 @@
             <Label Text="樂透範例" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <Label Text=""  Padding="30,10,30,10" x:Name="lotte" FontSize="36" HorizontalTextAlignment="Center"/>
-        <Button Text="生成樂透號碼" x:Name="btnLotto" HorizontalOptions="Center" FontSize="30" TextColor="#408080" BackgroundColor="#BEBEBE" />
+        <Button Text="生成樂透號碼" Clicked="Button_Clicked" x:Name="btnLotto" HorizontalOptions="Center" FontSize="30" TextColor="#408080" BackgroundColor="#BEBEBE" />
     </StackLayout>
 
 </ContentPage>

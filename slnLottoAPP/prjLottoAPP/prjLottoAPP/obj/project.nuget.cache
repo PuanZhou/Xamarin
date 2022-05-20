@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VL1k7HJ76XfBsWDchPz35aV0ob/85i8Ld/OXkofK288T6GmtppqPGB5x0H0yZtwmIPamyv6GjSKtgjRatvz49w==",
+  "dgSpecHash": "A72918GJWllR7tNkYdCxtxbwYbM3GQlPJDKbGHvgdnOSEiwbnzopIJb0pOdHlXDfinv+7IK40AUrs5hJtLr7Zw==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

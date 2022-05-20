@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-                 
+
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="prjHelloAPP.MainPage">
@@ -11,28 +11,28 @@
                 VerticalOptions="FillAndExpand"
                 Spacing="0">
 
-        <Label Text="紅" FontSize="35"
+            <Label  FontSize="35"
                x:Name="red"
                Background="#EA0000"
                HorizontalTextAlignment="Center"
                VerticalTextAlignment="Center"
                HorizontalOptions="FillAndExpand"/>
 
-        <Label Text="藍" FontSize="35"
+            <Label  FontSize="35"
                 x:Name="blue"
                Background="#C4E1FF"
                HorizontalTextAlignment="Center"
                VerticalTextAlignment="Center"
                HorizontalOptions="FillAndExpand"/>
 
-        <Label Text="黃" FontSize="35"
+            <Label FontSize="35"
                x:Name="yellow"
                Background="#FFDC35"
                HorizontalTextAlignment="Center"
                VerticalTextAlignment="Center"
                HorizontalOptions="FillAndExpand"/>
 
-        <Label Text="綠" FontSize="35"
+            <Label  FontSize="35"
                x:Name="green"
                Background="#73BF00"
                HorizontalTextAlignment="Center"

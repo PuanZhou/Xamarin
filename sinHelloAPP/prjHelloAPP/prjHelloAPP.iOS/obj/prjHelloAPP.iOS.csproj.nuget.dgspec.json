@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj": {}
+    "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj": {}
   },
   "projects": {
-    "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj": {
+    "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj",
+        "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj",
         "projectName": "prjHelloAPP.iOS",
-        "projectPath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj",
+        "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\obj\\",
+        "outputPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj": {
-                "projectPath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj"
+              "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj": {
+                "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj": {
+    "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj",
+        "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj",
         "projectName": "prjHelloAPP",
-        "projectPath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj",
+        "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\obj\\",
+        "outputPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

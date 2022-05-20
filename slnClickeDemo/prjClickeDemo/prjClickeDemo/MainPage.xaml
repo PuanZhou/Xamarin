@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="prjClickeDemo.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="一元二次方程式範例" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+            
+            <Entry x:Name="text1" FontSize="30" HorizontalOptions="FillAndExpand" Keyboard="Numeric"/>
+
+            <Label Text="x²+" FontSize="30" HorizontalOptions="FillAndExpand"/>
+
+            <Entry x:Name="text2" FontSize="30" HorizontalOptions="FillAndExpand" Keyboard="Numeric"/>
+
+            <Label Text="x+" FontSize="30" HorizontalOptions="FillAndExpand"/>
+
+            <Entry x:Name="text3" FontSize="30" HorizontalOptions="FillAndExpand" Keyboard="Numeric"/>
+
+            <Label Text="=0" FontSize="30" HorizontalOptions="FillAndExpand"/>
+            
+        </StackLayout>
+
+        <StackLayout 
+                Orientation="Horizontal">
+            <Button
+                    Text="輸入"
+                    Clicked="BtnEnter_Clicked"
+                    FontSize="30"
+                   HorizontalOptions="Start"/>
+            <Label
+                    x:Name="lblAns"
+                    Text="X=?"
+                    FontSize="30"
+                    HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+
+    </StackLayout>
+
+
+</ContentPage>

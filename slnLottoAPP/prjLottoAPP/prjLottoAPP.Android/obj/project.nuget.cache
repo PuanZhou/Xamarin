@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jLFrSCqnI3Y7WgcwPJTznlvWlVbx9LR8bzW9yWRBuo+eqTgoLyCPOJLdhZivUnV7FBpVFEX2/uvvgUwqZ5h3XA==",
+  "dgSpecHash": "GjKjgoNZII7LCDgMKIueMkv3X8uX5xI3FmU+Y+WoUTYFCL6f8ojywJCTFayuA0mUyoqp//A/B7852LgwTisckQ==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.Android\\prjLottoAPP.Android.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.Android\\prjLottoAPP.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

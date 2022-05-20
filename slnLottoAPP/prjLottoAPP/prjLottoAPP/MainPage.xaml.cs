@@ -14,19 +14,19 @@ namespace prjLottoAPP
         public MainPage()
         {
             InitializeComponent();
-
-            btnLotto.Clicked += BtnLotto_Clicked;
         }
 
         bool hasclick = false;
-        private void BtnLotto_Clicked(object sender, EventArgs e)
+
+        private void Button_Clicked(object sender, EventArgs e)
         {
+
             hasclick = true;
             if (hasclick)
             {
                 btnLotto.Text = "重新生成號碼";
-            }   
-            lotte.Text= (new CLottoGen()).GetLotto();
+            }
+            lotte.Text = (new CLottoGen()).GetLotto();
         }
     }
 }

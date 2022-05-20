@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.iOS\\prjLottoAPP.iOS.csproj",
+      "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.iOS\\prjLottoAPP.iOS.csproj",
       "projectName": "prjLottoAPP.iOS",
-      "projectPath": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.iOS\\prjLottoAPP.iOS.csproj",
+      "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.iOS\\prjLottoAPP.iOS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.iOS\\obj\\",
+      "outputPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj": {
-              "projectPath": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj"
+            "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj": {
+              "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj"
             }
           }
         }

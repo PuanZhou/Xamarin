@@ -541,11 +541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj",
+      "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj",
       "projectName": "prjLottoAPP",
-      "projectPath": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj",
+      "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\prjLottoAPP.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\iii\\XAML\\xamarinCode\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\obj\\",
+      "outputPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnLottoAPP\\prjLottoAPP\\prjLottoAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

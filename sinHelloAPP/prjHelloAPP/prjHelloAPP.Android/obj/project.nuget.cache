@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ztEc/mTuPBKS45pTyiuc4A/3GQfQ1AgCqzL8XmwYvZ65oQhhYlVXZ/XNM7sRN/FJOEJhhFOgSRN0t1Khp5x+kw==",
+  "dgSpecHash": "hHHS/ZlTdjmaacxFJ4++T1OSM7KK39LqyrstwrCEtxEMj7A8ls5e4gM+Vg0LSG0He9girSg6z3ViqGuypOrxyA==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.Android\\prjHelloAPP.Android.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.Android\\prjHelloAPP.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

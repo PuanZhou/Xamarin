@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8wbqBR8xj89Vu8Do0NChor1X4A8rUFtYbRPgwnyTGbBlw2+Y7LfSBBBskCPkmPslz8SYT2bZXAQa8q3vP0qCg==",
+  "dgSpecHash": "wlVN4HguPJ8pIx1rveOpxQwFWmpdi6cmMbvjhLu+8Z9XX5OoSQDYHbr3A6blSoQfi4+wIQXv3F5nNKUqAhmjSw==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP.iOS\\prjHelloAPP.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

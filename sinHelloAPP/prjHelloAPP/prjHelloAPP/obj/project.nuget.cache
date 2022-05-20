@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ghlq8pHvX+3elWkSFWJ84VCOGvnIemXJXGDOsoKrirDz+zK/MdzKrk0HsTFwTYcG/8BiCh+L7pz8qsdFgKqB0g==",
+  "dgSpecHash": "HMYRMed8ighHYJsq1zdrztqo+iU0iK4y+4R95x5+J9vBkU+mzIN4HJLFH25ycMBW9yMVaE83/mswx3WAY9KxqA==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\sinHelloAPP\\prjHelloAPP\\prjHelloAPP\\prjHelloAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
