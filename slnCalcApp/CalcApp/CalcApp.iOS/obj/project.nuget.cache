@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DHq4ycl5+FD64vCpd0nvHryFIR/Sluu/mzImXzLrqWqm1g2RveQM98juwA5zg0wfTYQ+JAwvYmmmQCoTHQWsg==",
+  "dgSpecHash": "v1vWbDnhYlj+UB455VoWn9r/QzuZczSdY9EeEgrggXNaDX6dg5s/7Z4nerazgiXK4gQpvOKkM2IpJmG73lV60Q==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp.iOS\\CalcApp.iOS.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp.iOS\\CalcApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

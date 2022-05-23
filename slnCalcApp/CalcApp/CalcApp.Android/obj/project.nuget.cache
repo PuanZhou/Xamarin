@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NsbGOUUqG3pYn/xf0X5wOfLcV/f5h3TOA33MqLcpx8v0tV6kVBLdx0w7m7RsGyD/QMONx6XzCsf9uMJdvqBCpg==",
+  "dgSpecHash": "nvZmNGJXyidi6VySnNxBDL+28reuZ2IBjDjRgo0qKUVR9aQJoBENv2eCsZbN5rTSo5RWGPML2NTh+dCzo5khyA==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp.Android\\CalcApp.Android.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp.Android\\CalcApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

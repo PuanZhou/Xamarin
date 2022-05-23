@@ -129,7 +129,7 @@
                     VerticalOptions="FillAndExpand"
                     />
 
-            <Button Text="CE" 
+            <Button Text="AC" 
                     FontSize="36"  
                     Grid.Row="3" 
                     Clicked="BtnClear_Clicked"

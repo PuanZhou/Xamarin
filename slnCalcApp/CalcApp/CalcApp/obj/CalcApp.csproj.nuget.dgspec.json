@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp\\CalcApp.csproj": {}
+    "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp\\CalcApp.csproj": {}
   },
   "projects": {
-    "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp\\CalcApp.csproj": {
+    "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp\\CalcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp\\CalcApp.csproj",
+        "projectUniqueName": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp\\CalcApp.csproj",
         "projectName": "CalcApp",
-        "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp\\CalcApp.csproj",
+        "projectPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp\\CalcApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp\\obj\\",
+        "outputPath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

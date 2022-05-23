@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "an9bh0NWWyLmfVJwh7IUmMWhAIQ1hnnhsCRTqkSPekyMYHaCeKLRPLiZQjThO+Fex88rvBvRkNCZRhaAXBiEXA==",
+  "dgSpecHash": "NqdJWoJ9HAI+GSySlFxifCYfb0bMwBspeYjtAi39dtyVI5nIPBcpE5nkGboSAYO7Geb6FFPOGAH5I6cqZq0TAA==",
   "success": true,
-  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcApp\\CalcApp\\CalcApp\\CalcApp.csproj",
+  "projectFilePath": "D:\\iii\\XAML\\xamarinCode\\Xamarin\\slnCalcAPP\\CalcApp\\CalcApp\\CalcApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
